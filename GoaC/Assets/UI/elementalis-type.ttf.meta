@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7e3b12cc907a9ad4ebb4362fe4974a8c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Elementalis_type
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6cfcda9e38c6e5440884030fd2186115, type: 3}
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

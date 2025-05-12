@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2699354058530337142
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4302055053699951731}
+  - component: {fileID: 4239899370442530350}
+  m_Layer: 0
+  m_Name: SFXPlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4302055053699951731
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2699354058530337142}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.477009, y: -2.6000583, z: -21.35944}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4239899370442530350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2699354058530337142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e7ccac8ea6a15244b32e88c0cbfffd9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxMixerGroup: {fileID: -4955557432604863474, guid: 6c2d8089b6ac1be45a61f0512eb3c65a, type: 2}
+  sanityNotes:
+  - {fileID: 8300000, guid: ece682de61a9fe543aeef7e44c3e07b0, type: 3}
+  - {fileID: 8300000, guid: e0278bad7c6c2f245a699eb97df5c948, type: 3}
+  - {fileID: 8300000, guid: 4382fa95fd170804bb3769fc385655e1, type: 3}
+  healSound: {fileID: 8300000, guid: 72269df6c14e6c24ab35956b3e3a4173, type: 3}
+  attackSwing: {fileID: 8300000, guid: 3876630eb4c2ce64abf9c2c28b73a1b0, type: 3}
+  enemyDeathClip: {fileID: 8300000, guid: 07a5a526eeb579a4a995b91f6b80b4e6, type: 3}
+  playerHurtSounds:
+  - {fileID: 8300000, guid: 3b8bc8fd81563e948a1845aeb4a4094c, type: 3}
+  - {fileID: 8300000, guid: af91b86aa93cb6645a3789676d1c4e59, type: 3}
+  - {fileID: 8300000, guid: e6e8d956e4f1ae547b545260b90f01d0, type: 3}
+  batFlutterSound: {fileID: 8300000, guid: e43547aec3a67d14ea10eb9edb6d6bf1, type: 3}
+  batDeathClip: {fileID: 8300000, guid: 5b8266052b48c45459d75197be96e08f, type: 3}
