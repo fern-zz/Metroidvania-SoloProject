@@ -17,7 +17,7 @@ This project is far from finished. It’s the foundation of something I care dee
 
 ### Screenshots
 
-*Background in Menu by Me*
+*Background Art in Menu done by Me on Aseprite*
 
 ![Menu - Background by Me](https://github.com/user-attachments/assets/341f814f-35b6-4778-85dd-3b6c43382ac1)
 ![Game Areas](https://github.com/user-attachments/assets/af1ee946-18b7-43e6-b6fb-9e295cd4241c)
